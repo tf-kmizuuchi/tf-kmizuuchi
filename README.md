@@ -1,1 +1,1 @@
-<img src="./icon.svg" width="100%" alt="">
+<img src="./icon.svg" width="50%" alt="">
